@@ -1,0 +1,30 @@
+{
+  "name": "parsed-url",
+  "version": "0.0.0",
+  "description": "Short cut to get a parsed url and query string in browserify",
+  "main": "theurl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/parsed-url.git"
+  },
+  "keywords": [
+    "parsed",
+    "url",
+    "query",
+    "string",
+    "href",
+    "window",
+    "document",
+    "browserify"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "40a17f736dbbda8a5d38acbf052752970a61078f",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/parsed-url/issues"
+  }
+}
